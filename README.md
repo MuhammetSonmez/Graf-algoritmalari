@@ -47,3 +47,6 @@ Bu uygulama Python programlama dili kullanılarak oluşturulmuştur. Ayrıca, Op
 Dijkstra algoritması, en kısa yol problemini çözmek için kullanılan bir algoritmadır. Algoritma, ağırlıklı bir graf (yani, kenarların her birinin bir ağırlığı veya maliyeti vardır) verildiğinde, iki düğüm arasındaki en kısa yolu bulmak için kullanılır.
 
 Dijkstra algoritması, grafın düğüm sayısı ve kenar sayısı ile orantılı olarak performansı azalır, ancak genellikle uygulamalar için yeterli hızda çalışır.
+
+## DIPNOT
+   bu ödev, Muhammet Sönmez ve Mehmet Koyuncuoğlu tarafından hazırlanmıştır.
