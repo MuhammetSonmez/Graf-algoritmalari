@@ -31,4 +31,4 @@ if __name__ == '__main__':
 Bu örnek, belirtilen koordinatta bir graf oluşturacak, malzeme dağıtımını yapacak ve son olarak oluşan grafi gösterecektir.
 
 # dipnot:
-    Verilen koordinatlar kırklareli merkez/valilik binasını referans alır.
+    Verilen koordinatlar kırklareli merkez/valilik binasını referans alır, dilediğiniz koordinatları girerek farlı bölgelerde de hesaplama yapılabilir.
