@@ -48,5 +48,4 @@ Dijkstra algoritması, en kısa yol problemini çözmek için kullanılan bir al
 
 Dijkstra algoritması, grafın düğüm sayısı ve kenar sayısı ile orantılı olarak performansı azalır, ancak genellikle uygulamalar için yeterli hızda çalışır.
 
-## DIPNOT
-   Bu ödev, Muhammet Sönmez ve Mehmet Koyuncuoğlu tarafından hazırlanmıştır.
+
